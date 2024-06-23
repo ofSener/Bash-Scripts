@@ -1,0 +1,11 @@
+codespa+
+codespa+
+codespa+
+codespa+
+codespa+
+codespa+
+codespa+
+codespa+
+              total        used        free      shared  buff/cache   available
+Mem:        8119864     1432812      269992       68044     6417060     6296348
+Swap:             0           0           0
