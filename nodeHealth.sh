@@ -7,7 +7,7 @@
 
 set -x # debug mode
 
-chmod +x 777 nodeHealth.sh # permisson accepted.
+# chmod 777 nodeHealth.sh # permisson accepted.
 
 echo "Node Health"
 
